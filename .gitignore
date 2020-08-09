@@ -1,0 +1,5 @@
+/data/cache
+/data/tmp
+/vendor/
+/.idea
+/.php_cs.cache
